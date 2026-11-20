@@ -32,12 +32,12 @@ Execute the program using runserver command.
     <head>
         <title>timetable</title>
     </head>
-    <body bgcolor="azure">
+    <body bgcolor="yellow">
         <img src="/static/logo.png" height="155" width="1530" alt="error!" title="SEC logo">
-        <h1 align="center"><b>FIRST SEMESTER TIMETABLE</b></h1>
+        <h1 align="center"><b>TIMETABLE</b></h1>
         <h3 align="center"><b>ABISHEK V A REF NO: 26018663</b></h3>
         <table border="6" cellspacing="5" cellpadding="8" align="center">
-            <tr bgcolor="orange" align="center">
+            <tr bgcolor="cyan" align="center">
                 <th bgcolor="lime">day/time</th>
                 <th>monday</th>
                 <th>tuesday</th>
@@ -47,7 +47,7 @@ Execute the program using runserver command.
                 <th>saturday</th>
             </tr>
             <tr align="center">
-                <td bgcolor="orange">8:00-9:30</td>
+                <td bgcolor="pink">8:00-9:30</td>
                 <td>Com</td>
                 <td>Eng</td>
                 <td>FWAD</td>
@@ -55,7 +55,7 @@ Execute the program using runserver command.
                 <td>Com</td>
                 <td>Free</td>
             <tr align="center">
-                <td bgcolor="orange">9:45-11:15</td>
+                <td bgcolor="pink">9:45-11:15</td>
                 <td>FWAD</td>
                 <td>Eng</td>
                 <td>Free</td>
@@ -64,16 +64,16 @@ Execute the program using runserver command.
                 <td>EDM</td>
             </tr>
             <tr align="center">
-                <td bgcolor="orange">11:30-12:15</td>
+                <td bgcolor="pink">11:30-12:15</td>
                 <td colspan="6">Lunch</td>
             </tr>
             <tr align="center">
-                <td bgcolor="orange">12:15-1:00</td>
+                <td bgcolor="pink">12:15-1:00</td>
                 <td colspan="5">Mentor Meet</td>
                 <td>Free</td>
             </tr>
             <tr align="center">
-                <td bgcolor="orange">1:15-2:45</td>
+                <td bgcolor="pink">1:15-2:45</td>
                 <td>Free</td>
                 <td>FWAD</td>
                 <td>free</td>
@@ -82,7 +82,7 @@ Execute the program using runserver command.
                 <td>Math</td>
             </tr>
             <tr align="center">
-                <td bgcolor="orange">3:00-4:30</td>
+                <td bgcolor="pink">3:00-4:30</td>
                 <td>Free</td>
                 <td>EDM</td>
                 <td>pyt</td>
@@ -92,7 +92,7 @@ Execute the program using runserver command.
             </tr>
            </table>       
            <br><br><table border="6" cellspacing="5" cellpadding="8" align="center">
-            <tr bgcolor="pink" align="center">
+            <tr bgcolor="cyan" align="center">
                 <th>S.No</th>
                 <th>subject code</th>
                 <th>subject name</th>              
